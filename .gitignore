@@ -1,0 +1,9 @@
+Roshamble/
+.DS_Store
+set_api_keys.fish
+set_api_keys.sh
+flowbite/
+oldTry/
+tool_service/
+template_service/node_modules/
+template_service/tmp/
